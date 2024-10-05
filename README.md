@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PeggyPriscilla/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PeggyPriscilla/LeetCode/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/PeggyPriscilla/LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/PeggyPriscilla/LeetCode/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/PeggyPriscilla/LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/PeggyPriscilla/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
