@@ -13,7 +13,7 @@ class Solution {
         Map<Character, Integer> freq_s1 = new HashMap<>();
         Map<Character, Integer> freq_window = new HashMap<>();
 
-        // Build frequency maps for s1 and the window in s2
+       
         for (char c : s1.toCharArray()) {
             freq_s1.put(c, freq_s1.getOrDefault(c, 0) + 1);
         }
@@ -23,12 +23,12 @@ class Solution {
             freq_window.put(c, freq_window.getOrDefault(c, 0) + 1);
         }
 
-        // Compare initial frequency maps
+        
         if (areMapsEqual(freq_s1, freq_window)) {
             return true;
         }
 
-        // Sliding window approach
+       
         for (int i = len_s1; i < len_s2; i++) {
             char charOut = s2.charAt(i - len_s1);
             if (freq_window.get(charOut) == 1) {
@@ -40,7 +40,7 @@ class Solution {
             char charIn = s2.charAt(i);
             freq_window.put(charIn, freq_window.getOrDefault(charIn, 0) + 1);
 
-            // Compare frequency maps
+            
             if (areMapsEqual(freq_s1, freq_window)) {
                 return true;
             }
@@ -70,6 +70,5 @@ class Solution {
         String s1 = "ab";
         String s2 = "eidbaooo";
         boolean result = solution.checkInclusion(s1, s2);
-        System.out.println(result); // Expected output: true
-    }
+        System.out.println(result);     }
 }
