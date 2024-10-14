@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PeggyPriscilla/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PeggyPriscilla/LeetCode/tree/master/0027-remove-element) |
 | [1694-make-sum-divisible-by-p](https://github.com/PeggyPriscilla/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [3194-find-words-containing-character](https://github.com/PeggyPriscilla/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/PeggyPriscilla/LeetCode/tree/master/0567-permutation-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/PeggyPriscilla/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/PeggyPriscilla/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3194-find-words-containing-character](https://github.com/PeggyPriscilla/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Sliding Window
 |  |
 | ------- |
