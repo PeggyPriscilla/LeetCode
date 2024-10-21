@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PeggyPriscilla/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PeggyPriscilla/LeetCode/tree/master/0027-remove-element) |
 | [1694-make-sum-divisible-by-p](https://github.com/PeggyPriscilla/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1791-richest-customer-wealth](https://github.com/PeggyPriscilla/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [3194-find-words-containing-character](https://github.com/PeggyPriscilla/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PeggyPriscilla/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PeggyPriscilla/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/PeggyPriscilla/LeetCode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
